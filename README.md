@@ -1,5 +1,8 @@
 # devoted-task
 
+## About
+This application presents various posts with tags with the ability to create new ones. 
+
 ### Compile and Hot-Reload for Development
 
 ```sh
