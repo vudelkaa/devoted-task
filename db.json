@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "authorName": "Kate",
+      "title": "Caracal vs Lynx: What Are 8 Key Differences?",
+      "text": "The caracal is a species of cat native to portions of Africa and Asia. A lynx is any of several species of medium-sized wild cats that belong to the genus Felis or Lynx subgenera. These two varieties of cats are frequently mistaken, although they can be distinguished easily. In this post, we will outline eight key distinctions between the caracal and the lynx to help you tell them apart!",
+      "tags": [
+        "animals"
+      ],
+      "date": "2022-06-07T16:26:22.507Z",
+      "id": 1
+    },
+    {
+      "authorName": "Ivan",
+      "title": "Most Popular Frameworks in 2022",
+      "text": "Choosing the top web development frameworks for your website and web apps determines the progress of your web project. Learn what tech stacks are best for different types of products.\n#1 React.js.\n#2 Angular.\n#3 Vue.js.\n#4 Svelte.\n#5 Node.js.\n#6 Ember.js.\n#7 Backbone.js.",
+      "tags": [
+        "it",
+        "news"
+      ],
+      "date": "2022-06-07T16:31:01.443Z",
+      "id": 2
+    },
+    {
+      "authorName": "Oleksandr",
+      "title": "Love Real Food How to Start a Food Blog: Step by Step",
+      "text": "1) Name your blog and buy a matching domain name.\nDomain names are short, memorable and typically end in .com (yourblogname.com).\nCost: free with Bluehost or around $15 per year elsewhere.\n\n2) Find a reliable web host.\nA web host stores your website and makes it accessible to the world wide web. In other words, your website “lives” on your web host’s servers.\nCost: $2.95 per month and up.\n\n3) Install WordPress.\nWordPress is top-of-the-line, industry standard blogging software.\nCost: free!\n\n4) Install a WordPress theme.\nYour WordPress theme will determine the look, feel and functionality of your website.\nCost: free to $130.\n\n5) Set up Google tools.\nGoogle offers invaluable tools and services like Google Analytics and Search Console.\nCost: free!\n\n6) Install WordPress plugins.\nWordPress plugins extend the functionality of WordPress in certain areas. For example, one of my recommended free WordPress plugins helps prevent spam comments.\nCost: free, mostly!\n\n7) Start blogging!\nPublish those recipes, stories and photos.\nCost: hard work!",
+      "tags": [
+        "food",
+        "art",
+        "news",
+        "it"
+      ],
+      "date": "2022-06-07T16:32:53.498Z",
+      "id": 3
+    },
+    {
+      "authorName": "Hanna",
+      "title": "Do Animals Cry?",
+      "text": "Animals can and do cry. A bird or other animal’s unique call or the shedding of tears are both technical examples of crying. Animals, however, cry in different ways and generate tears for quite different reasons than people do. To answer the question, “do animals cry?” we’ll look at how animals express their emotions and whether they cry in the same ways we do.",
+      "tags": [
+        "animals",
+        "news"
+      ],
+      "date": "2022-06-07T16:33:59.480Z",
+      "id": 4
+    }
+  ]
+}
